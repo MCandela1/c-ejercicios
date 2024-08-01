@@ -1,0 +1,55 @@
+abstract class FiguraGeometrica
+{
+    public abstract double Area();
+    public abstract double Perimetro();
+}
+
+class Circulo : FiguraGeometrica
+{
+    public double Radio { get; set; }
+    public Circulo(double radio)
+    {
+        Radio = radio;
+    }
+    public override double Area()
+    {
+        return Math.PI * Math.Pow(Radio,2);
+    }
+    public override double Perimetro()
+    {
+        return 2* Math.PI*Radio;
+    }
+}
+
+class Cuadrado : FiguraGeometrica
+{
+    public double Lado { get; set; }
+    public Cuadrado(double lado)
+    {
+        Lado = lado;
+    }
+    public override double Area()
+    {
+        return Math.Pow(Lado,2);
+    }
+    public override double Perimetro()
+    {
+        return 4*Lado;
+    }
+}        
+
+class Program
+{
+    static void Main()
+    {
+        FiguraGeometrica miCirculo = new Circulo(5);
+        Console.WriteLine("Circulo:");
+        Console.WriteLine($"Área del circulo: {miCirculo.Area()}");
+        Console.WriteLine($"Perímetro del circulo: {miCirculo.Perimetro()}");
+
+        FiguraGeometrica miCuadrado = new Cuadrado(4);
+        Console.WriteLine("Cuadrado:");
+        Console.WriteLine($"Área del cuadrado: {miCuadrado.Area()}");
+        Console.WriteLine($"Perímetro del cuadrado: {miCuadrado.Perimetro()}");
+    }
+}
