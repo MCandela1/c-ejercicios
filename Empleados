@@ -1,0 +1,56 @@
+public abstract class Empleado
+{
+    public string Nombre { get; set; }
+    public string Apellido { get; set; }
+    public string Puesto { get; set; }
+    public double Sueldo { get; set; }
+    public string DNI { get; set; }
+
+    public Empleado(string nombre, string apellido, string puesto, double sueldo, string dni)
+    {
+        Nombre = nombre;
+        Apellido = apellido;
+        Puesto = puesto;
+        Sueldo = sueldo;
+        DNI = dni;
+    }
+    public abstract void MostrarDetalles();
+}
+
+public class EmpleadoTiempoCompleto : Empleado
+{
+    public EmpleadoTiempoCompleto(string nombre, string apellido,string puesto, double sueldo, string dni) : base(nombre, apellido, puesto, sueldo, dni)
+    {
+
+    }
+
+    public override void MostrarDetalles()
+    {
+        Console.WriteLine($"Empleado que trabaja a tiempo completo es: {Nombre}{Apellido}, su puesto es {Puesto}, su sueldo es: {Sueldo}, su DNI: {DNI}");
+    }
+}
+
+public class EmpleadoTiempoParcial : Empleado
+{
+    public EmpleadoTiempoParcial(string nombre, string apellido, string puesto,  double sueldo, string dni) : base(nombre, apellido, puesto, sueldo, dni)
+    {
+
+    }
+
+    public override void MostrarDetalles()
+    {
+        Console.WriteLine($"Empleado que trabaja a tiempo parcial: {Nombre}{Apellido}, su puesto es: {Puesto}, su sueldo es de: {Sueldo}, DNI: {DNI}");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Empleado tiempoCompleto = new EmpleadoTiempoCompleto("Isabel ", "Pérez", "Desarrollador", 3000, "12345678A");
+        tiempoCompleto.MostrarDetalles();
+
+        Empleado tiempoParcial = new EmpleadoTiempoParcial("Juliana ", "Gómez", "Soporte Técnico", 1500, "87456321B");
+        tiempoParcial.MostrarDetalles();
+    }
+}
