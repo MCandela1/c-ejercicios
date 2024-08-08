@@ -1,0 +1,14 @@
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\bin\Debug\net8.0\Estudiantes.exe
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\bin\Debug\net8.0\Estudiantes.deps.json
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\bin\Debug\net8.0\Estudiantes.runtimeconfig.json
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\bin\Debug\net8.0\Estudiantes.dll
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\bin\Debug\net8.0\Estudiantes.pdb
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.AssemblyInfo.cs
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.dll
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\refint\Estudiantes.dll
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.pdb
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\Estudiantes.genruntimeconfig.cache
+C:\Users\win10\Desktop\c#\ejercicios clases\Estudiantes\Estudiantes\obj\Debug\net8.0\ref\Estudiantes.dll
