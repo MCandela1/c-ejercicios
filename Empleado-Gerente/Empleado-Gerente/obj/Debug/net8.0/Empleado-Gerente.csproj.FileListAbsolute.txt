@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\bin\Debug\net8.0\Empleado-Gerente.exe
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\bin\Debug\net8.0\Empleado-Gerente.deps.json
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\bin\Debug\net8.0\Empleado-Gerente.runtimeconfig.json
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\bin\Debug\net8.0\Empleado-Gerente.dll
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\bin\Debug\net8.0\Empleado-Gerente.pdb
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.AssemblyInfo.cs
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.dll
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\refint\Empleado-Gerente.dll
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.pdb
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\Empleado-Gerente.genruntimeconfig.cache
+C:\Users\User\source\repos\Empleado-Gerente\Empleado-Gerente\Empleado-Gerente\obj\Debug\net8.0\ref\Empleado-Gerente.dll
