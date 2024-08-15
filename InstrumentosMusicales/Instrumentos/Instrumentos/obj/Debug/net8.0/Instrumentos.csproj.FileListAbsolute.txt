@@ -1,0 +1,14 @@
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\bin\Debug\net8.0\Instrumentos.exe
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\bin\Debug\net8.0\Instrumentos.deps.json
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\bin\Debug\net8.0\Instrumentos.runtimeconfig.json
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\bin\Debug\net8.0\Instrumentos.dll
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\bin\Debug\net8.0\Instrumentos.pdb
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.AssemblyInfo.cs
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.dll
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\refint\Instrumentos.dll
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.pdb
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\Instrumentos.genruntimeconfig.cache
+C:\Users\win10\Desktop\c#\InstrumentosMusicales\Instrumentos\Instrumentos\obj\Debug\net8.0\ref\Instrumentos.dll
