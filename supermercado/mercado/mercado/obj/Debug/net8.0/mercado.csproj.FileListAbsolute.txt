@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\bin\Debug\net8.0\mercado.exe
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\bin\Debug\net8.0\mercado.deps.json
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\bin\Debug\net8.0\mercado.runtimeconfig.json
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\bin\Debug\net8.0\mercado.dll
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\bin\Debug\net8.0\mercado.pdb
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.dll
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\refint\mercado.dll
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.pdb
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\mercado.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\29-08\supermercado\mercado\mercado\obj\Debug\net8.0\ref\mercado.dll
