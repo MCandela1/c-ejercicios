@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.Presentacion.frmConectar.resources
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.Presentacion.frmUsuarios.resources
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.Properties.Resources.resources
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\bin\Debug\Libreria_Web.exe.config
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\bin\Debug\Libreria_Web.exe
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\bin\Debug\Libreria_Web.pdb
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.exe
+C:\Users\User\Desktop\c#\LIBRERIA\Libreria_Web\Libreria_Web\obj\Debug\Libreria_Web.pdb
