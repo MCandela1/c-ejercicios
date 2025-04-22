@@ -1,0 +1,121 @@
+using System;
+using System.Collections.Generic;
+
+namespace SistemaEmpresa
+{
+    // Clase Empleado
+    public class Empleado
+    {
+        // Propiedades privadas
+        private string nombre;
+        private string apellido;
+        private string cuil;
+        private DateTime fechaNacimiento;
+
+        // Constructor
+        public Empleado(string nombre, string apellido, string cuil, DateTime fechaNacimiento)
+        {
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.cuil = cuil;
+            this.fechaNacimiento = fechaNacimiento;
+        }
+
+        // Propiedades públicas (getters)
+        public string Nombre => nombre;
+        public string Apellido => apellido;
+        public string CUIL => cuil;
+        public DateTime FechaNacimiento => fechaNacimiento;
+
+        public int Edad
+        {
+            get
+            {
+                int edad = DateTime.Now.Year - fechaNacimiento.Year;
+                if (DateTime.Now < fechaNacimiento.AddYears(edad))
+                    edad--;
+                return edad;
+            }
+        }
+
+        // Método para mostrar datos del empleado
+        public void MostrarDatos()
+        {
+            Console.WriteLine("Empleado:");
+            Console.WriteLine($"Nombre completo: {nombre} {apellido}");
+            Console.WriteLine($"CUIL: {cuil}");
+            Console.WriteLine($"Fecha de nacimiento: {fechaNacimiento.ToShortDateString()}");
+            Console.WriteLine($"Edad: {Edad}");
+            Console.WriteLine("-------------------------------------");
+        }
+    }
+
+    // Clase Empresa
+    public class Empresa
+    {
+        // Propiedades privadas
+        private string razonSocial;
+        private string cuit;
+        private List<Empleado> empleados;
+
+        // Constructor
+        public Empresa(string razonSocial, string cuit)
+        {
+            this.razonSocial = razonSocial;
+            this.cuit = cuit;
+            this.empleados = new List<Empleado>();
+        }
+
+        // Propiedades públicas
+        public string RazonSocial => razonSocial;
+        public string CUIT => cuit;
+
+        // Método para contratar un empleado
+        public void ContratarEmpleado(Empleado nuevoEmpleado)
+        {
+            empleados.Add(nuevoEmpleado);
+            Console.WriteLine($"Empleado {nuevoEmpleado.Nombre} {nuevoEmpleado.Apellido} contratado exitosamente.");
+        }
+
+        // Método para mostrar empleados contratados
+        public void MostrarEmpleados()
+        {
+            Console.WriteLine($"--- Empleados de la empresa {razonSocial} ---");
+            foreach (Empleado emp in empleados)
+            {
+                emp.MostrarDatos();
+            }
+        }
+
+        // Método para mostrar datos de la empresa
+        public void MostrarDatosEmpresa()
+        {
+            Console.WriteLine("Datos de la empresa:");
+            Console.WriteLine($"Razón Social: {razonSocial}");
+            Console.WriteLine($"CUIT: {cuit}");
+            Console.WriteLine("-------------------------------------");
+        }
+    }
+
+    // Clase principal (programa)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Crear empresa
+            Empresa miEmpresa = new Empresa("Soluciones Integrales SRL", "30-12345678-9");
+            miEmpresa.MostrarDatosEmpresa();
+
+            // Crear empleados
+            Empleado emp1 = new Empleado("Juan", "Pérez", "20-12345678-3", new DateTime(1990, 5, 15));
+            Empleado emp2 = new Empleado("María", "Gómez", "27-87654321-8", new DateTime(1985, 12, 2));
+
+            // Contratar empleados
+            miEmpresa.ContratarEmpleado(emp1);
+            miEmpresa.ContratarEmpleado(emp2);
+
+            // Mostrar empleados contratados
+            miEmpresa.MostrarEmpleados();
+        }
+    }
+}
