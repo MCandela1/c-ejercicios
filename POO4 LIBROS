@@ -1,0 +1,115 @@
+namespace EjerPOO4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+
+        {
+           
+
+            color tapa;
+            tapa = color.rojo;
+            Libro micar = new Libro("El señor de los anillos",200,color.rojo);
+            
+            micar.editorial.nomAutor = "J.R.R Tolkien";
+            micar.editorial.nomEdit = "Minotauro";
+
+            Console.WriteLine($"Libro: {micar.titulo}");
+            Console.WriteLine($"Cantidad de paginas: {micar.totalpaginas}");
+            Console.WriteLine($"Nombre del editorial: {micar.editorial.nomEdit}");
+            Console.WriteLine($"Nombre del autor: {micar.editorial.nomAutor}");
+
+            Console.ReadKey();
+        }
+    }
+}
+
+namespace EjerPOO4
+{
+    internal class Editorial
+    {
+       
+        public string nomAutor { get; set; }
+        public string nomEdit { get; set; }
+
+        public Editorial()
+        {
+            
+           
+            this.nomAutor = string.Empty;
+            this.nomEdit = string.Empty;
+        }
+
+        
+    }
+}
+
+namespace EjerPOO4
+{
+    public enum color
+    {
+        blanco,
+        negro,
+        rojo,
+        azul,
+        marron
+    }
+    internal class Libro
+    {
+        private string _titulo;
+        private int _totalpaginas;
+        private color _colorLibro;
+        private Editorial _editorial;
+
+        public Libro()
+        {
+            this.titulo = string.Empty;
+            this.totalpaginas = 0;
+            this.colorLibro = color.blanco;
+            this.editorial = new Editorial();
+        }
+        public Libro(string titulo, int totalpaginas, color colorLibro)
+        {
+            this.titulo = titulo;
+            this.totalpaginas = totalpaginas;
+            this.colorLibro = colorLibro;
+            this.editorial = new Editorial();
+            
+        }
+        public Libro(string titulo, int totalpaginas, color colorLibro, Editorial editorial)
+        {
+            this.titulo = titulo;
+            this.totalpaginas = totalpaginas;
+            this.colorLibro = colorLibro;
+            this.editorial = editorial;
+
+        }
+        
+
+        public string titulo
+        {
+            get { return this._titulo; }
+            set { this._titulo = value; }
+        }
+
+       
+
+        public int totalpaginas
+        {
+            get { return this._totalpaginas; }
+            set { this._totalpaginas = value;}
+        }
+
+        public color colorLibro
+        {
+            get { return this._colorLibro; }
+            set { this._colorLibro = value; }
+        }
+        public Editorial editorial
+        {
+            get { return this._editorial; }
+            set { this._editorial = value;}
+        }
+    }
+    
+}
