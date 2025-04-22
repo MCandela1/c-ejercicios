@@ -1,0 +1,7 @@
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\bin\Debug\ejercicioPOO6-22-04-25.exe.config
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\bin\Debug\ejercicioPOO6-22-04-25.exe
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\bin\Debug\ejercicioPOO6-22-04-25.pdb
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\obj\Debug\ejercicioPOO6-22-04-25.csproj.AssemblyReference.cache
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\obj\Debug\ejercicioPOO6-22-04-25.csproj.CoreCompileInputs.cache
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\obj\Debug\ejercicioPOO6-22-04-25.exe
+C:\Users\mcaraballo\source\repos\POO-Paciente\ejercicioPOO6-22-04-25\obj\Debug\ejercicioPOO6-22-04-25.pdb

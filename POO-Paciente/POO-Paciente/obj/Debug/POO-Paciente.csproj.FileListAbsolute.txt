@@ -1,0 +1,7 @@
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\obj\Debug\POO-Paciente.csproj.AssemblyReference.cache
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\obj\Debug\POO-Paciente.csproj.CoreCompileInputs.cache
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\bin\Debug\POO-Paciente.exe.config
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\bin\Debug\POO-Paciente.exe
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\bin\Debug\POO-Paciente.pdb
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\obj\Debug\POO-Paciente.exe
+C:\Users\mcaraballo\source\repos\POO-Paciente\POO-Paciente\obj\Debug\POO-Paciente.pdb
