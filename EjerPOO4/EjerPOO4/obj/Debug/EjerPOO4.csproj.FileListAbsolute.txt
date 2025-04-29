@@ -1,0 +1,7 @@
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\bin\Debug\EjerPOO4.exe.config
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\bin\Debug\EjerPOO4.exe
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\bin\Debug\EjerPOO4.pdb
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\obj\Debug\EjerPOO4.csproj.SuggestedBindingRedirects.cache
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\obj\Debug\EjerPOO4.csproj.CoreCompileInputs.cache
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\obj\Debug\EjerPOO4.exe
+C:\Users\dcecchi\source\repos\EjerPOO4\EjerPOO4\obj\Debug\EjerPOO4.pdb
