@@ -1,0 +1,8 @@
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\bin\Debug\EjerPOO6.exe.config
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\bin\Debug\EjerPOO6.exe
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\bin\Debug\EjerPOO6.pdb
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\obj\Debug\EjerPOO6.csproj.AssemblyReference.cache
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\obj\Debug\EjerPOO6.csproj.SuggestedBindingRedirects.cache
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\obj\Debug\EjerPOO6.csproj.CoreCompileInputs.cache
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\obj\Debug\EjerPOO6.exe
+C:\Users\dcecchi\source\repos\EjerPOO6\EjerPOO6\obj\Debug\EjerPOO6.pdb
