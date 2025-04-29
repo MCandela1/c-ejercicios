@@ -1,8 +1,0 @@
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\bin\Debug\Ejer2POO.exe.config
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\bin\Debug\Ejer2POO.exe
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\bin\Debug\Ejer2POO.pdb
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\obj\Debug\Ejer2POO.csproj.AssemblyReference.cache
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\obj\Debug\Ejer2POO.csproj.SuggestedBindingRedirects.cache
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\obj\Debug\Ejer2POO.csproj.CoreCompileInputs.cache
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\obj\Debug\Ejer2POO.exe
-C:\Users\dcecchi\source\repos\Ejer2POO\Ejer2POO\obj\Debug\Ejer2POO.pdb
